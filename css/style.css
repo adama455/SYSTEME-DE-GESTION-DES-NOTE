@@ -1,0 +1,9 @@
+body
+{
+background:url("fond.png") repeat fixed;
+}
+#nom_input.hidden_input
+{
+display:none;
+}
+
